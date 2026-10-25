@@ -10,6 +10,10 @@ chat, and alerts when a long buff runs out or Well Fed is missing.
 |---|---|---|
 | ![Map](screenshots/map.png) | ![Character](screenshots/character.png) | ![Chat](screenshots/chat.png) |
 
+On a tablet or an unfolded phone, **Questing** puts the map and your quest log side by side:
+
+![Questing](screenshots/questing.png)
+
 ## How it works, and why it's safe
 
 Periscope only looks; it never touches the game. The addon paints a thin strip of coloured blocks in
@@ -37,6 +41,11 @@ run `Periscope.exe`.
 2. Log in to WoW. The strip appears in the bottom-left corner.
 3. Scan the QR code with your phone (it must be on the same Wi-Fi as the PC). On the phone, use
    **Add to Home screen** to get it as an app.
+
+On a bigger screen, try the **Questing** tab: the map with your quest log beside it. Tap a quest
+to light it up on the map, or tap one of your quests on the map to find it in the log. The buttons
+under the map's zoom go full screen and swap between side by side and map-on-top; drag the bar
+between them to share the screen differently.
 
 In game: `/peri` shows the status, `/peri off` and `/peri on` turn the strip off and on, and
 `/peri chat skip <channel>` hides a chat channel from the phone (`/peri chat` lists them).

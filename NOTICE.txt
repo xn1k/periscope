@@ -6,7 +6,7 @@ the game and never reads the game's memory: the addon paints a strip of coloured
 bottom-left of the screen, and this program reads those pixels and serves a page to your phone on
 your own network.
 
-Quest database (gamedata/quests.json, npcs.json, objects.json, items.json)
+Quest database (gamedata/quests.json, npcs.json, objects.json, items.json, drops.json)
   Decoded from QuestieDB's World of Warcraft Forever data, https://github.com/Questie/QuestieDB
   (GNU General Public License v3.0). These files are distributed under the same licence; they are
   their own source. Licence text: https://www.gnu.org/licenses/gpl-3.0.txt
@@ -15,6 +15,13 @@ World map tiles (gamedata/maptiles)
   Built from OpenMap's stitched world map art (OpenMap's code is MIT licensed). The art itself is
   Blizzard Entertainment's map art, as OpenMap ships it. Zephras Isle's map, World of Warcraft's
   fonts and item icons are read from your own game files at runtime and are not included.
+
+Rares' loot tables (gamedata/rareloot.json)
+  Taken from CMaNGOS's classic world database, https://github.com/cmangos/classic-db
+  (GNU General Public License v3.0); distributed under the same licence, and its own source.
+
+Item quality and icon numbers (gamedata/itemmeta.json)
+  From World of Warcraft's own item tables (Blizzard Entertainment), as wago.tools exports them.
 
 World of Warcraft and Blizzard Entertainment are trademarks or registered trademarks of Blizzard
 Entertainment, Inc. Periscope is not affiliated with or endorsed by Blizzard Entertainment.

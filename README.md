@@ -42,6 +42,11 @@ run `Periscope.exe`.
 3. Scan the QR code with your phone (it must be on the same Wi-Fi as the PC). On the phone, use
    **Add to Home screen** to get it as an app.
 
+On the map, **Rares** shows rare and rare elite mobs (silver badge with their level); tap one to
+see what it drops of its own, like Vultros' Talon of Vultros. **Item quests** shows quests that start
+from a dropped item, like the Nibbled-On Book from Northshire's kobolds, where those mobs are. The
+**Lv** chip sets how many levels below and above yours to show.
+
 On a bigger screen, try the **Questing** tab: the map with your quest log beside it. Tap a quest
 to light it up on the map, or tap one of your quests on the map to find it in the log. The buttons
 under the map's zoom go full screen and swap between side by side and map-on-top; drag the bar

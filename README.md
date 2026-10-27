@@ -43,7 +43,8 @@ run `Periscope.exe`.
    **Add to Home screen** to get it as an app.
 
 On the map, **Rares** shows rare and rare elite mobs (silver badge with their level); tap one to
-see what it drops of its own, like Vultros' Talon of Vultros. **Item quests** shows quests that start
+see what it drops of its own, like Vultros' Talon of Vultros, and tap an item (or hover it with a
+mouse) for its tooltip. **Item quests** shows quests that start
 from a dropped item, like the Nibbled-On Book from Northshire's kobolds, where those mobs are. The
 **Lv** chip sets how many levels below and above yours to show.
 
